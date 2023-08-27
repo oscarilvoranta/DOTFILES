@@ -1,6 +1,0 @@
-2023/07/20-01:39:07.923 2937 Creating DB /home/ocki/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2023/07/20-01:39:08.169 2937 Reusing MANIFEST /home/ocki/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/20-01:39:47.988 2938 Level-0 table #5: started
-2023/07/20-01:39:48.044 2938 Level-0 table #5: 1638 bytes OK
-2023/07/20-01:39:48.082 2938 Delete type=0 #3
-2023/07/20-01:39:48.082 2938 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
