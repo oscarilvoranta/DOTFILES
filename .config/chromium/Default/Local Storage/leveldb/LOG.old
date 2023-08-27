@@ -1,0 +1,9 @@
+2023/08/27-14:01:24.142 3 Reusing MANIFEST /home/ocki/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/27-14:01:24.144 3 Recovering log #246
+2023/08/27-14:01:24.144 3 Reusing old log /home/ocki/.config/chromium/Default/Local Storage/leveldb/000246.log 
+2023/08/27-15:27:24.883 5 Level-0 table #251: started
+2023/08/27-15:27:24.935 5 Level-0 table #251: 19436 bytes OK
+2023/08/27-15:27:24.974 5 Delete type=0 #246
+2023/08/27-15:31:52.146 5 Level-0 table #253: started
+2023/08/27-15:31:52.206 5 Level-0 table #253: 21048 bytes OK
+2023/08/27-15:31:52.246 5 Delete type=0 #250

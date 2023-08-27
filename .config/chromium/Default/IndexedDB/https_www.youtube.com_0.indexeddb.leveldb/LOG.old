@@ -1,0 +1,21 @@
+2023/08/24-22:35:05.202 2a6 Reusing MANIFEST /home/ocki/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/24-22:35:05.202 2a6 Recovering log #115
+2023/08/24-22:35:05.470 2a6 Reusing old log /home/ocki/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000115.log 
+2023/08/24-22:35:14.009 2b7 Level-0 table #120: started
+2023/08/24-22:35:14.139 2b7 Level-0 table #120: 1723743 bytes OK
+2023/08/24-22:35:14.204 2b7 Delete type=0 #115
+2023/08/24-22:36:14.283 2a7 Compacting 1@1 + 1@2 files
+2023/08/24-22:36:14.512 2a7 Generated table #121@1: 416 keys, 56069 bytes
+2023/08/24-22:36:14.512 2a7 Compacted 1@1 + 1@2 files => 56069 bytes
+2023/08/24-22:36:14.650 2a7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/24-22:36:14.651 2a7 Delete type=2 #120
+2023/08/24-22:36:14.651 2a7 Delete type=2 #117
+2023/08/25-14:20:55.881 2b7 Level-0 table #123: started
+2023/08/25-14:20:56.039 2b7 Level-0 table #123: 1504386 bytes OK
+2023/08/25-14:20:56.143 2b7 Delete type=0 #119
+2023/08/25-14:21:00.109 2a6 Compacting 1@1 + 1@2 files
+2023/08/25-14:21:00.165 2a6 Generated table #124@1: 542 keys, 106928 bytes
+2023/08/25-14:21:00.165 2a6 Compacted 1@1 + 1@2 files => 106928 bytes
+2023/08/25-14:21:00.203 2a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/25-14:21:00.203 2a6 Delete type=2 #123
+2023/08/25-14:21:00.203 2a6 Delete type=2 #121

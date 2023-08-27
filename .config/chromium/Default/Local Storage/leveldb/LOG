@@ -1,0 +1,23 @@
+2023/08/27-22:57:08.811 3 Reusing MANIFEST /home/ocki/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/27-22:57:08.813 3 Recovering log #252
+2023/08/27-22:57:08.814 3 Reusing old log /home/ocki/.config/chromium/Default/Local Storage/leveldb/000252.log 
+2023/08/27-22:58:30.864 3 Level-0 table #256: started
+2023/08/27-22:58:30.908 3 Level-0 table #256: 16197 bytes OK
+2023/08/27-22:58:30.947 3 Delete type=0 #252
+2023/08/27-23:31:55.170 4 Level-0 table #258: started
+2023/08/27-23:31:55.487 4 Level-0 table #258: 213065 bytes OK
+2023/08/27-23:31:55.528 4 Delete type=0 #255
+2023/08/27-23:31:55.529 4 Compacting 4@0 + 2@1 files
+2023/08/27-23:31:55.687 4 Generated table #259@0: 798 keys, 2159287 bytes
+2023/08/27-23:31:55.743 4 Generated table #260@0: 253 keys, 173783 bytes
+2023/08/27-23:31:55.744 4 Compacted 4@0 + 2@1 files => 2333070 bytes
+2023/08/27-23:31:55.781 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/27-23:31:55.784 4 Delete type=2 #253
+2023/08/27-23:31:55.784 4 Delete type=2 #248
+2023/08/27-23:31:55.784 4 Delete type=2 #258
+2023/08/27-23:31:55.784 4 Delete type=2 #247
+2023/08/27-23:31:55.785 4 Delete type=2 #256
+2023/08/27-23:31:55.785 4 Delete type=2 #251
+2023/08/27-23:40:09.706 4 Level-0 table #262: started
+2023/08/27-23:40:09.772 4 Level-0 table #262: 212893 bytes OK
+2023/08/27-23:40:09.813 4 Delete type=0 #257

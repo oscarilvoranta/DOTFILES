@@ -1,0 +1,16 @@
+# GIMP action-history
+
+(history-item "tools-move" 0)
+(history-item "file-quit" 1)
+(history-item "image-new" 0)
+(history-item "tools-align" 0)
+(history-item "edit-clear" 0)
+(history-item "file-export" 1)
+(history-item "tools-bucket-fill" 0)
+(history-item "layers-edit-text" 0)
+(history-item "layers-delete" 0)
+(history-item "layers-edit-attributes" 0)
+(history-item "filters-gaussian-blur" 0)
+(history-item "file-save" 1)
+
+# end of action-history

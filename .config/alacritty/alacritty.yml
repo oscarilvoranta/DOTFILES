@@ -1,0 +1,56 @@
+window:
+  opacity: 0.9
+  title: See You Space Cowboy...
+font:
+  normal:
+    family: HackNerdFont
+    style: regular
+  bold:
+    family: HackNerdFont
+    style: bold
+  italic:
+    family: HackNerdFont
+    style: italic
+
+
+colors:
+  # Default colors
+  primary:
+    background: '#00000f'
+    foreground: '#770EA8'
+
+  # Normal colors
+  normal:
+    black:   '0x100e09'
+    red:     '#ff0000'
+    green:   '0x39FF14'
+    yellow:  '0x484235'
+    blue:    '#050FFD'
+    magenta: '0x91856c'
+    cyan:    '0xbfb090'
+    white:   '0xede1cb'
+
+  # Bright colors
+  bright:
+    black:   '0xca43ce'
+    red:     '0xf18f9a'
+    green:   '0xd94add'
+    yellow:  '0x4c8ac8'
+    blue:    '0x489591'
+    magenta: '0x68b862'
+    cyan:    '0x52af4a'
+    white:   '0xe46be8'
+cursor:
+cursor:
+  style:
+    shape: Block
+    blinking: On
+  blink_interval: 500
+  blink_timeout: 0
+key_bindings:
+  - { key: L,                           mode: Vi|~Search, action: Up                      }
+  - { key: K,                           mode: Vi|~Search, action: Down                    }
+  - { key: J,                           mode: Vi|~Search, action: Left                    }
+  - { key: 39,                          mode: Vi|~Search, action: Right                   }
+    #39=ö
+

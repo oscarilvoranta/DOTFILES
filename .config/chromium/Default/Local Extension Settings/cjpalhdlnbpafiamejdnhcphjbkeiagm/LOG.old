@@ -1,0 +1,10 @@
+2023/08/27-14:01:24.581 61d Reusing MANIFEST /home/ocki/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/08/27-14:01:24.582 61d Recovering log #317
+2023/08/27-14:01:24.590 61d Reusing old log /home/ocki/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000317.log 
+2023/08/27-14:06:11.323 61c Level-0 table #321: started
+2023/08/27-14:06:11.465 61c Level-0 table #321: 2711116 bytes OK
+2023/08/27-14:06:11.483 61d Current memtable full; waiting...
+2023/08/27-14:06:11.507 61c Delete type=0 #317
+2023/08/27-14:06:11.508 61c Level-0 table #323: started
+2023/08/27-14:06:11.655 61c Level-0 table #323: 3254683 bytes OK
+2023/08/27-14:06:11.696 61c Delete type=0 #320

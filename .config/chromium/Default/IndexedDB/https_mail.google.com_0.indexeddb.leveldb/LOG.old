@@ -1,0 +1,25 @@
+2023/08/14-00:34:05.203 2aa Reusing MANIFEST /home/ocki/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/14-00:34:05.203 2aa Recovering log #7
+2023/08/14-00:34:05.431 2aa Reusing old log /home/ocki/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2023/08/14-00:34:25.349 2ab Level-0 table #12: started
+2023/08/14-00:34:25.482 2ab Level-0 table #12: 1578524 bytes OK
+2023/08/14-00:34:25.696 2ab Delete type=0 #7
+2023/08/14-01:27:08.619 2ab Level-0 table #14: started
+2023/08/14-01:27:08.665 2ab Level-0 table #14: 236359 bytes OK
+2023/08/14-01:27:08.699 2ab Delete type=0 #11
+2023/08/14-01:27:08.700 2ab Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4773 : 0
+2023/08/14-01:27:08.700 2ab Compacting 1@0 + 1@1 files
+2023/08/14-01:27:08.788 2ab Generated table #15@0: 970 keys, 548021 bytes
+2023/08/14-01:27:08.788 2ab Compacted 1@0 + 1@1 files => 548021 bytes
+2023/08/14-01:27:08.821 2ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/14-01:27:08.821 2ab Delete type=2 #14
+2023/08/14-01:27:08.822 2ab Delete type=2 #12
+2023/08/14-01:27:08.823 2ab Manual compaction at level-0 from '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4773 : 0 .. (end); will stop at (end)
+2023/08/14-01:27:08.823 2ab Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4955 : 1
+2023/08/14-01:27:08.823 2ab Compacting 1@1 + 1@2 files
+2023/08/14-01:27:08.888 2ab Generated table #16@1: 83 keys, 101433 bytes
+2023/08/14-01:27:08.888 2ab Compacted 1@1 + 1@2 files => 101433 bytes
+2023/08/14-01:27:08.932 2ab compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/14-01:27:08.933 2ab Delete type=2 #15
+2023/08/14-01:27:08.933 2ab Delete type=2 #9
+2023/08/14-01:27:08.933 2ab Manual compaction at level-1 from '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4955 : 1 .. (end); will stop at (end)
